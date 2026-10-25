@@ -1,4 +1,3 @@
-![Luiz Henrique Soares - IT & Cybersecurity](assets/github-banner.png)
 
 # Hi there! I'm Luiz Henrique 👋
 
