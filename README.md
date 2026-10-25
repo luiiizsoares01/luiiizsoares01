@@ -1,4 +1,20 @@
 ![Luiz Henrique Soares](github-banner.png)
+
+<h2>🏅 Featured Certifications</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CompTIA-PenTest%2B-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CompTIA-SecAI%2B-red?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft-MD--102%20In%20Progress-555555?style=for-the-badge" />
+</p>
 # Hi there! I'm Luiz Henrique 👋
 
 ### IT Infrastructure | Cybersecurity | Endpoint Security | IT Automation
@@ -26,50 +42,118 @@ My goal is to combine professional certifications with practical projects that d
 
 ---
 
-## 🏅 Professional Certifications
+<h2>🏅 Professional Certifications</h2>
 
-### 🛡️ CompTIA — Cybersecurity
+<p>
+  <strong>17 Certifications Earned</strong> |
+  Cybersecurity • Cloud • IT Service Management • Governance & Compliance
+</p>
 
-- CompTIA Security+
-- CompTIA Cybersecurity Analyst (CySA+)
-- CompTIA PenTest+
-- CompTIA SecAI+
+<h3>🛡️ CompTIA — Cybersecurity</h3>
 
-### ☁️ Microsoft — Cloud, Security & AI
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge" alt="CompTIA Security+" />
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-C8202F?style=for-the-badge" alt="CompTIA CySA+" />
+  <img src="https://img.shields.io/badge/CompTIA-PenTest%2B-C8202F?style=for-the-badge" alt="CompTIA PenTest+" />
+  <img src="https://img.shields.io/badge/CompTIA-SecAI%2B-C8202F?style=for-the-badge" alt="CompTIA SecAI+" />
+</p>
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+<h3>☁️ Microsoft — Cloud, Security & AI</h3>
 
-### 🔐 EXIN — Information Security & Privacy
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge" alt="Microsoft AZ-900" />
+  <img src="https://img.shields.io/badge/Microsoft-AI--900-0078D4?style=for-the-badge" alt="Microsoft AI-900" />
+  <img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=for-the-badge" alt="Microsoft SC-900" />
+</p>
 
-- Ethical Hacking Foundation
-- Information Security Foundation based on ISO/IEC 27001
-- Information Security Management Professional based on ISO/IEC 27001
-- Privacy and Data Protection Foundation
+<h4>📚 Currently Studying</h4>
 
-### ⚙️ IT Service Management
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-MD--102%20In%20Progress-555555?style=for-the-badge" alt="Microsoft MD-102 In Progress" />
+</p>
 
-- ITIL v3 Foundation
-- IT Service Management Foundation based on ISO/IEC 20000
+<h3>🔐 Information Security, Privacy & Compliance</h3>
 
-### 📋 Governance, Risk & Compliance
+<details>
+  <summary><strong>EXIN — View 4 Certifications</strong></summary>
 
-- Certified ISO 27001 Internal Auditor (I27001IA)
+  <br />
 
-### 🌱 ITCerts — Sustainability & Data Privacy
+  <p>
+    <img src="https://img.shields.io/badge/EXIN-Ethical%20Hacking-3949AB?style=flat-square" alt="EXIN Ethical Hacking" />
+    <img src="https://img.shields.io/badge/EXIN-ISO%2027001-3949AB?style=flat-square" alt="EXIN ISO 27001" />
+    <img src="https://img.shields.io/badge/EXIN-Information%20Security-3949AB?style=flat-square" alt="EXIN Information Security" />
+    <img src="https://img.shields.io/badge/EXIN-Privacy%20%26%20Data%20Protection-3949AB?style=flat-square" alt="EXIN Privacy and Data Protection" />
+  </p>
 
-- Green IT Essentials Certification
-- GDPR Foundation
-- LGPD Foundation
+  <ul>
+    <li>EXIN Ethical Hacking Foundation</li>
+    <li>Information Security Foundation based on ISO/IEC 27001</li>
+    <li>Information Security Management Professional based on ISO/IEC 27001</li>
+    <li>EXIN Privacy and Data Protection Foundation</li>
+  </ul>
+</details>
 
-### 📚 Certification in Progress
+<br />
 
-- Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)
+<details>
+  <summary><strong>IT Service Management — View 2 Certifications</strong></summary>
 
-**17 completed certifications | Continuous learning | Hands-on technical development**
+  <br />
 
-*Certification names reflect my credentials. Verification links can be found on my professional credential profiles.*
+  <p>
+    <img src="https://img.shields.io/badge/ITIL-v3%20Foundation-6A1B9A?style=flat-square" alt="ITIL v3 Foundation" />
+    <img src="https://img.shields.io/badge/ISO%2FIEC-20000-6A1B9A?style=flat-square" alt="ISO/IEC 20000" />
+  </p>
+
+  <ul>
+    <li>ITIL v3 Foundation</li>
+    <li>IT Service Management Foundation based on ISO/IEC 20000</li>
+  </ul>
+</details>
+
+<br />
+
+<details>
+  <summary><strong>ISO 27001 — View Internal Auditor Certification</strong></summary>
+
+  <br />
+
+  <p>
+    <img src="https://img.shields.io/badge/ISO%2027001-Internal%20Auditor-00897B?style=flat-square" alt="ISO 27001 Internal Auditor" />
+  </p>
+
+  <ul>
+    <li>Certified ISO 27001 Internal Auditor (I27001IA)</li>
+  </ul>
+</details>
+
+<br />
+
+<details>
+  <summary><strong>ITCerts — View 3 Certifications</strong></summary>
+
+  <br />
+
+  <p>
+    <img src="https://img.shields.io/badge/Green%20IT-Essentials-2E7D32?style=flat-square" alt="Green IT Essentials" />
+    <img src="https://img.shields.io/badge/GDPR-Foundation-1565C0?style=flat-square" alt="GDPR Foundation" />
+    <img src="https://img.shields.io/badge/LGPD-Foundation-1565C0?style=flat-square" alt="LGPD Foundation" />
+  </p>
+
+  <ul>
+    <li>Green IT Essentials Certification</li>
+    <li>GDPR Foundation</li>
+    <li>LGPD Foundation</li>
+  </ul>
+</details>
+
+<hr />
+
+<p>
+  <em>My certifications support my continuous professional development in cybersecurity, IT infrastructure, privacy, governance, and modern endpoint administration.</em>
+</p>
+
 
 ---
 
