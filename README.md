@@ -1,4 +1,4 @@
-
+![Luiz Henrique Soares](assets/github-banner.png)
 # Hi there! I'm Luiz Henrique 👋
 
 ### IT Infrastructure | Cybersecurity | Endpoint Security | IT Automation
