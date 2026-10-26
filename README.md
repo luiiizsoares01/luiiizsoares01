@@ -1,6 +1,6 @@
 <div align="center">
 
-![Luiz Henrique Soares — IT Infrastructure, Cybersecurity & Endpoint Security](assets/github-banner.png)
+![Luiz Henrique Soares — IT Infrastructure, Cybersecurity & Endpoint Security](/github-banner.png)
 
 ### IT Infrastructure · Cybersecurity · Endpoint Security · IT Automation
 
